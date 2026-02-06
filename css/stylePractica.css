@@ -1,0 +1,46 @@
+.caja-roja{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.caja-azul{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+.caja-naranja{
+    width: 200px;
+    height: 200px;
+    background-color: orangered;
+}
+
+.rojo{color:red;
+      font-size: 25px;
+      font-weight: bold;
+    }
+
+.azul{color:blue;
+      font-size: 25px;
+      font-weight: bold;
+}
+
+.naranja{color: orangered;
+        font-size: 25px;
+      font-weight: bold;
+}
+
+.amarillo{color: yellow;
+        font-size: 25px;
+      font-weight: bold;
+}
+
+.verde{color: green;
+        font-size: 25px;
+      font-weight: bold;
+}
+
+h2{
+    display: none;
+}

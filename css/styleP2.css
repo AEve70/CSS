@@ -1,0 +1,11 @@
+/**h2{
+    display: inline;
+}**/
+
+.father{
+    display: flex;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+

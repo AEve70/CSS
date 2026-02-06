@@ -1,0 +1,15 @@
+a{
+    text-transform: lowercase;
+}
+
+footer a{
+    text-transform: uppercase;
+}
+
+a.test{
+    text-transform: uppercase;
+}
+
+h1{
+    color: RGB(59, 34, 73);
+}
